@@ -14,7 +14,12 @@ I am a university student currently learning how to code. I'm passionate about w
 
 ---
 
+## 🎯 Interests
+
+I am particularly interested in **web development** and **Python** programming.
+
+---
+
 ## 📫 How to reach me
 
 - **Email**: jiho32501@gmail.com
-
