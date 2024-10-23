@@ -31,9 +31,3 @@ I am particularly interested in **web development** and **Python** programming.
 
 - HTML, CSS, and JavaScript
 - Advanced Python frameworks
-
----
-
-## 📈 GitHub Stats
-
-![Jiho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiho050718_USERNAME&show_icons=true&theme=radical)
