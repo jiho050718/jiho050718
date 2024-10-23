@@ -1,4 +1,5 @@
-# 👋 Hello! I'm Jiho
+# 👋 Hello!
+---
 
 ## 👨‍💻 About Me
 
