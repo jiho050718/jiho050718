@@ -7,7 +7,7 @@
 - **개발환경**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ---
 
-## 📫 How to reach me
+## 📫 연락처
 
 - **Email**:jiho32501@gmail.com
 
