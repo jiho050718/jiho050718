@@ -12,14 +12,7 @@ I am a passionate developer with an interest in [Your Specialization or Interest
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_title=true)
-
----
-
 ## 📫 How to reach me
 
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**:jiho32501@gmail.com
 
